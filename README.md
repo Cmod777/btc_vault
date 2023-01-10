@@ -1,4 +1,8 @@
-# btc_vault
-Una guida a step per imparare a creare e conservare il seed in sicurezza
+# Sommario
 
-Work in progress
+* [CREAZIONE MANUALE DEL SEED](-)
+* [PILLS ENTROPY](-) 
+* [CALCOLO OFFLINE DEL SEED](-) 
+* [PASSPHRASE](-) 
+* [SPLIT DEL SEED CON S4](-)
+* [HARDWARE](-)
