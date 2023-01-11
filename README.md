@@ -17,6 +17,25 @@
 
 ### OP_1
  Scarica e stampa il PDF con le istruzioni cliccando [![QUI](https://img.shields.io/badge/QUI-blue.svg)](https://github.com/Cmod777/btc_vault/blob/main/OP_1_VAULT_v1.pdf)
+
+PROCEDURA:
+1. Associare il valore "0" a una faccia della moneta e il valore "1" all'altra.
+2. Lanciare la moneta e registrare il risultato (0 o 1) nella casella "Riga 1-A". Continua a lanciare la moneta nuovamente fino a completare la fila 1 (da A a J).
+3. Continuare a lanciare la moneta per completare la riga 2 (da A a J) e continuare a farlo finché non si ottiene l'entropia desiderata (128, 160, 192, 224 o 256 bit per 12,15,18,21 o 24 parole).
+4. Dopo aver inserito l'entropia desiderata, tracciate un segno su tutti gli 0 in modo da eliminarli dal conteggio (potete anche non tracciare alcun segno purché vi ricordate di non considerare gli zeri). Solo i numeri 1 saranno validi per il calcolo.
+5. Sulla riga del calcolo " RISULTATO DELLA SOMMA", scrivere il risultato della somma di tutti i valori 1 trovati nella stessa riga.
+6. Non calcolare l'ultima parola dell'entropia selezionata. Riga 12 per 128b, riga 15 per 160b, riga 18 per 192b, riga 21 per 224b e riga 24 per 256b.
+7. Ottenere un elenco stampato delle parole BIP39.
+a. https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt | accesso con QR
+8. Se il vostro elenco di parole inizia con il numero "0" > ABANDON, Trovate i valori risultanti dalla casella "Somma" nell'elenco e scrivete il valore parola nella riga "Parola
+9. Se l'elenco delle parole inizia con il numero "1" > ABANDON, Aggiungere 1 al risultato nella casella "somma" e registrare il risultato aggiornato nella casella "parola". (NB: conviene controllare il tipo di elenco prima di scrivere il risultato della somma dei numeri per non dover rifare il calcolo)
+10. Per calcolare l'ultima parola non calcolata ai punti precedenti potete sfruttare un tool come https://seedpicker.net/calculator/last-word.html OFFLINE o far suggerire al vostri hardware la parola corretta che sarà valida come checksum.
+11. Congratulazioni, avete appena calcolato da soli il vostro seed, con una buona entropia e 100% offline, senza affidarsi ad alcun generatore di numeri casuali.
+12. Ora tocca a voi conservarlo in modo sicuro. Vi suggerisco di conservarlo in un contenitore di metallo seguendo la guida di Blockmit o continuare nella lettura di questa guida.
+
+Se questo Documento vi ha aiutato a capire un po' meglio il Bitcoin, vi sarei grato se voleste condividerlo su twitter, linkedin o qualsiasi altro social network che utilizziate.
+Se vi è piaciuto, vi invito a lasciarmi un suggerimento e ad effettuare una donazione.
+
  
 Procurati:
 - 1 o più monete diverse (da cambiare durante la procedura)
