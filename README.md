@@ -16,7 +16,7 @@
 > N.B.: per le licenze specifiche fare riferimento ai credits 
 
 ### OP_1
- Scarica e stampa il PDF con le istruzioni cliccando [![QUI](https://img.shields.io/badge/QUI-blue.svg)](-)
+ Scarica e stampa il PDF con le istruzioni cliccando [![QUI](https://img.shields.io/badge/QUI-blue.svg)](https://github.com/Cmod777/btc_vault/blob/main/OP_1_VAULT_v1.pdf)
  
 Procurati:
 - 1 o più monete diverse (da cambiare durante la procedura)
