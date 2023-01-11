@@ -1,6 +1,6 @@
 # Sommario
 
-* [CREAZIONE MANUALE DEL SEED](-)
+* [CREAZIONE MANUALE DEL SEED](https://github.com/Cmod777/btc_vault#creazione-manuale-del-seed)
 * [PASSPHRASE](-) 
 * [SPLIT DEL SEED CON S4](-)
 * [HARDWARE](-)
