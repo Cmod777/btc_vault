@@ -16,6 +16,13 @@
 > N.B.: per le licenze specifiche fare riferimento ai credits 
 
 ### OP_1
+ Scarica e stampa il PDF con le istruzioni cliccando [![QUI](https://img.shields.io/badge/QUI-blue.svg)](-)
+ 
+Procurati:
+- 1 o più monete diverse (da cambiare durante la procedura)
+- una matita o penna
+- oscura telecamere e altri dispositivi di ripresa audio/video
+- se utilizzi una base sotto al foglio pdf ricordati di distruggerla in sicurezza per evitare di lasciare informazioni con l'effetto ricalco
 
 ### OP_2
 #### Come calcolare manualmente bip39
